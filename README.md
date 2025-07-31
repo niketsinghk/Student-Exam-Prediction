@@ -1,7 +1,7 @@
-🧠 Project Objective:
+Project Objective:
 To build a machine learning model that can predict student performance using historical data, thereby enhancing academic support and reducing dropout rates.
 
-📊 Key Features:
+Key Features:
 Data Preprocessing
 Cleaned and transformed student data, handling missing values, encoding categorical features, and scaling inputs.
 
@@ -32,7 +32,7 @@ Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 Environment: Jupyter Notebook / VS Code
 
-🎯 Use Case:
+Use Case:
 This model can be used by:
 
 Schools: To proactively support struggling students
